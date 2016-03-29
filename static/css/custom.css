@@ -1,19 +1,21 @@
-.container {
-  background-color: #c3c3c3;
+.container .jumbotron {
+border-radius: 0;
 }
 
 .jumbotron {
-  background-color: white;
+  background-color: #0082ec;
+  color: white;
+  margin-bottom: 0px;
+}
+.navbar {
+  background-color: #c6c8c9;
+  border-radius: 0;
+  margin-bottom: 0px;
 }
 
-
-.thumbnail {
-  font-size: .8em;
-  border: 0 none;
-  box-shadow: none;
-  background-color: #628dbf;
-}
-.main {
-  //*background-color: #617b9c;
-
+.form-inline.pull-xs-right {
+    margin-top: 8px;
+    width: 271px;
+    float: right;
+    margin-right: 8px;
 }
