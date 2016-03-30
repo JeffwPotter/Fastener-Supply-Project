@@ -3,9 +3,15 @@ border-radius: 0;
 }
 
 .jumbotron {
-  background-color: #0082ec;
+  background-color: #0d426e;
   color: white;
   margin-bottom: 0px;
+  font-family: times;
+}
+
+.jumbotron .p {
+  position: relative;
+  right: 20px;
 }
 .navbar {
   background-color: #c6c8c9;
@@ -19,3 +25,11 @@ border-radius: 0;
     float: right;
     margin-right: 8px;
 }
+.list-group-item-img {
+  margin-left: 25px;
+}
+
+/*.50years {
+  position: relative;
+  top: 100px;
+}*/
